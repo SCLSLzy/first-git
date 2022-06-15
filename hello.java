@@ -1,9 +1,7 @@
-hello java g
-it!!
+hello java git!!
 public static void main(String args[]){
 sout(123);
 sout(alipay);
 qqqqqq
-LiuZhYu
 sout(alipay2);
 }
